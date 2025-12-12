@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Spell
+comment1.params=name\ manaCost\ damage
+comment1.target=Spell(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getDamage()
+comment3.params=owner\ enemy
+comment3.target=void\ play(Player,\ Player)
+numComments=4

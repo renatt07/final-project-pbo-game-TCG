@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Minion
+comment1.params=name\ manaCost\ attack
+comment1.target=Minion(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getAttack()
+comment3.params=owner\ enemy
+comment3.target=void\ play(Player,\ Player)
+numComments=4
