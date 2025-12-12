@@ -42,7 +42,7 @@ public class GameUI {
         panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
         panel.setBackground(BG_COLOR);
 
-        JLabel title = new JLabel("BATTLE CARDS");
+        JLabel title = new JLabel("TRADING CARD GAME");
         title.setFont(new Font("Impact", Font.PLAIN, 32));
         title.setForeground(ACCENT_COLOR);
         title.setAlignmentX(Component.CENTER_ALIGNMENT);
